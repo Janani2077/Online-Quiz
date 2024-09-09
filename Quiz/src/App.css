@@ -50,4 +50,15 @@ button:hover{
 }
 .timer span{
   font-weight: 800;
+
+}
+.score-section{
+  text-align: center;
+}
+.score-section h2{
+  font-weight: 500;
+  margin-bottom: 15px;
+}
+.score-section button{
+  background-color: tomato;
 }
