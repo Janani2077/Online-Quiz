@@ -7,7 +7,7 @@
     },
     {
         "id":2,
-        "question":"A?",
+        "question":"Which is the hottest planent in the Solar System?",
         "options":["Venus","Mars","Jupiter","Saturn"],
         "correctoption":"Mars"
     }

@@ -7,20 +7,26 @@
 body{
   width: 100vw;
   height: 100vh;
+ 
+  
   display:flex;
   justify-content: center;
   align-items: center;
   background-color:pink;
 }
 .quiz-App{
-  width: 600px;
-  padding: 20px;
+  
+  width: 800px;
+  padding: 100px;
+ 
+  
   background-color:white;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
   border-radius: 8px;
 }
 .question-section{
   text-align: center;
+  
 }
 .options{
   display: flex;
